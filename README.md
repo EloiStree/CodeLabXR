@@ -50,7 +50,7 @@ However, it introduces a significant dependency that I do not control within the
 To maintain full ownership and flexibility over the codebase, this project is built without the Godot XR Tools framework.
 
 
-- https://itch.io/
+- https://eloistree.itch.io/codelabxr
   - Quest: To Add
   - Steam: To Add
 
