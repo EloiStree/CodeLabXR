@@ -1,6 +1,11 @@
 # Code Lab XR
 
 
+```
+git clone --recursive https://github.com/EloiStree/CodeLabXR.git
+```
+
+
 ## APInt.io
 
 > Learn code by playing game with Integer.
