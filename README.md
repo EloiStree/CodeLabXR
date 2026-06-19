@@ -2,6 +2,7 @@
 
 
 ```
+cd storage/shared/documents
 git clone --recursive https://github.com/EloiStree/CodeLabXR.git
 ```
 
