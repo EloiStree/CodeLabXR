@@ -103,14 +103,14 @@ With only what Godot Engine provide.
 From [Release](https://github.com/EloiStree/CodeLabXR/releases), [Itch.io](https://eloistree.itch.io/codelabxr), ~Meta Store~, ~Steam Frame~
 
 
-Install on the Quest3 with Termux
-```
+Install on the Quest3 with Termux:
+```init
 cd storage/shared/documents
 git clone --recursive https://github.com/EloiStree/CodeLabXR.git
 ```
 
 
-## Conctext
+## Context
 
 ### APInt.io
 
@@ -122,7 +122,7 @@ git clone --recursive https://github.com/EloiStree/CodeLabXR.git
 
 ### Godotarium
 
-> Learn GDScript as a first programming language on Quest 3 and Steam Deck with an Amazon-style robotics experience.
+> Learn GDScript as a first programming language on Quest 3 and Steam Deck with an Amazon-style robotics experience.    
    
 Inspirered from the Robotarium and [the video of Fouloscopie](https://www.youtube.com/watch?v=5CaVhGTG8eA)   
 [<img width="828" height="433" alt="image" src="https://github.com/user-attachments/assets/6ee6c7b1-3d3e-4e8d-ae30-9a7639d3b237" />](https://www.youtube.com/watch?v=5CaVhGTG8eA)   
