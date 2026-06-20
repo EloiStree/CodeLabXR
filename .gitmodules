@@ -4,3 +4,33 @@
 [submodule "addons/2026_06_17_gdp_play_to_arc_raider_in_xr"]
 	path = addons/2026_06_17_gdp_play_to_arc_raider_in_xr
 	url = https://github.com/EloiStree/2026_06_17_gdp_play_to_arc_raider_in_xr.git
+[submodule "addons/2026_06_17_gdp_play_to_warcraft_in_xr"]
+	path = addons/2026_06_17_gdp_play_to_warcraft_in_xr
+	url = https://github.com/EloiStree/2026_06_17_gdp_play_to_warcraft_in_xr.git
+[submodule "addons/2026_06_17_gdp_play_to_10_second_ninja_in_xr"]
+	path = addons/2026_06_17_gdp_play_to_10_second_ninja_in_xr
+	url = https://github.com/EloiStree/2026_06_17_gdp_play_to_10_second_ninja_in_xr.git
+[submodule "addons/2026_06_17_gdp_play_to_hollow_knight_in_xr"]
+	path = addons/2026_06_17_gdp_play_to_hollow_knight_in_xr
+	url = https://github.com/EloiStree/2026_06_17_gdp_play_to_hollow_knight_in_xr.git
+[submodule "addons/2026_06_17_gdp_play_to_amazoo_in_xr"]
+	path = addons/2026_06_17_gdp_play_to_amazoo_in_xr
+	url = https://github.com/EloiStree/2026_06_17_gdp_play_to_amazoo_in_xr.git
+[submodule "addons/2026_01_03_gdp_input_to_primitive"]
+	path = addons/2026_01_03_gdp_input_to_primitive
+	url = https://github.com/EloiStree/2026_01_03_gdp_input_to_primitive.git
+[submodule "addons/2024_10_16_gdp_blocks_color"]
+	path = addons/2024_10_16_gdp_blocks_color
+	url = https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git
+[submodule "addons/2026_06_20_gdp_eloi_code_lab_xr_space"]
+	path = addons/2026_06_20_gdp_eloi_code_lab_xr_space
+	url = https://github.com/EloiStree/2026_06_20_gdp_eloi_code_lab_xr_space.git
+[submodule "addons/2026_06_15_gdp_hexa_chess"]
+	path = addons/2026_06_15_gdp_hexa_chess
+	url = https://github.com/EloiStree/2026_06_15_gdp_hexa_chess.git
+[submodule "addons/2026_06_07_gdp_load_prefab_from_two_points"]
+	path = addons/2026_06_07_gdp_load_prefab_from_two_points
+	url = https://github.com/EloiStree/2026_06_07_gdp_load_prefab_from_two_points.git
+[submodule "addons/2026_06_13_gdp_three_points_xr_cursor"]
+	path = addons/2026_06_13_gdp_three_points_xr_cursor
+	url = https://github.com/EloiStree/2026_06_13_gdp_three_points_xr_cursor.git
