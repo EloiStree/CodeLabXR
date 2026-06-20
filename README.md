@@ -41,10 +41,11 @@ The only career path I can confidently guarantee is **QA Tester**, thanks to all
 
 ## Required Hardware
  
-* Meta Quest 3 (or Steam Frame)    
-* Keyboard   
-* Mouse   
-* Gamepad
+* Meta Quest 3 (or Steam Frame)
+* OTG for your
+  * Keyboard   
+  * Mouse   
+* Bluetooth Gamepad
 * Optional but recommanded:
   * A Raspberry PI or a Steam Deck
  
