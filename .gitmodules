@@ -61,3 +61,21 @@
 [submodule "addons/2026_04_26_gdp_basic_godot_xr"]
 	path = addons/2026_04_26_gdp_basic_godot_xr
 	url = https://github.com/EloiStree/2026_04_26_gdp_basic_godot_xr.git
+[submodule "addons/2026_03_23_gdp_git_terminal_builder"]
+	path = addons/2026_03_23_gdp_git_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_git_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_scrcpy_terminal_builder"]
+	path = addons/2026_03_23_gdp_scrcpy_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_scrcpy_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_terminal_in_out"]
+	path = addons/2026_03_23_gdp_terminal_in_out
+	url = https://github.com/EloiStree/2026_03_23_gdp_terminal_in_out.git
+[submodule "addons/2026_03_23_gdp_ffmpeg_terminal_builder"]
+	path = addons/2026_03_23_gdp_ffmpeg_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_ffmpeg_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_adb_terminal_builder"]
+	path = addons/2026_03_23_gdp_adb_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_adb_terminal_builder.git
+[submodule "addons/2026_04_25_gdp_godot_to_termux"]
+	path = addons/2026_04_25_gdp_godot_to_termux
+	url = https://github.com/EloiStree/2026_04_25_gdp_godot_to_termux.git
