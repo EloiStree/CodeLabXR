@@ -37,3 +37,21 @@
 [submodule "addons/2026_06_13_gdp_three_points_mesh_builder"]
 	path = addons/2026_06_13_gdp_three_points_mesh_builder
 	url = https://github.com/EloiStree/2026_06_13_gdp_three_points_mesh_builder.git
+[submodule "addons/2026_05_29_gdp_xr_ui_lab"]
+	path = addons/2026_05_29_gdp_xr_ui_lab
+	url = https://github.com/EloiStree/2026_05_29_gdp_xr_ui_lab.git
+[submodule "addons/2026_04_27_gdp_oled_128x64"]
+	path = addons/2026_04_27_gdp_oled_128x64
+	url = https://github.com/EloiStree/2026_04_27_gdp_oled_128x64.git
+[submodule "addons/2026_04_11_gdp_learn_with_sensors"]
+	path = addons/2026_04_11_gdp_learn_with_sensors
+	url = https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors.git
+[submodule "addons/2026_04_16_gdp_learn_bit_and_code"]
+	path = addons/2026_04_16_gdp_learn_bit_and_code
+	url = https://github.com/EloiStree/2026_04_16_gdp_learn_bit_and_code.git
+[submodule "addons/2026_04_16_gdp_learn_bit_and_code_in_xr"]
+	path = addons/2026_04_16_gdp_learn_bit_and_code_in_xr
+	url = https://github.com/EloiStree/2026_04_16_gdp_learn_bit_and_code_in_xr.git
+[submodule "addons/2026_06_20_gdp_click_on_sub_viewport_in_xr"]
+	path = addons/2026_06_20_gdp_click_on_sub_viewport_in_xr
+	url = https://github.com/EloiStree/2026_06_20_gdp_click_on_sub_viewport_in_xr.git
