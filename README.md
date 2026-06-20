@@ -1,13 +1,106 @@
+
 # Code Lab XR
 
+Before you try to download this application.
 
+## Creator Guidelines
+
+* **Learn to code by playing games.**
+* The goal of this application is to teach programming directly through gameplay.
+* The success of the project is measured by how many beginners become coders 😋.
+* Every exercise and feature should be delivered in a working, clean, and playable state by **Thursday**.
+
+### Progress Tracker
+
+**Testimonials**
+
+* Learners: 0
+* Juniors: 0
+* Juniors → Mediors: 0
+
+## Player Guidelines
+
+* Keep the creator informed about your coding progress through [Discord](https://discord.gg/YDYqKKwXAt) or [GitHub/Issue](https://github.com/EloiStree/CodeLabXR/issues).
+  * Without spamming 😋
+* Support the project by donating to [APInt.IO](https://buymeacoffee.com/apintio):   
+  * https://buymeacoffee.com/apintio   
+
+## Project Objectives
+
+* Help players improve their typing skills.
+* Teach coding concepts to beginners, using **GDScript** as the first programming language.
+* Provide fun mini-games that introduce programming and IoT concepts.
+
+## Career Path
+
+The primary goal of this app is to have fun while learning code.   
+That said, it is also designed to guide players toward a career in software development.   
+
+The only career path I can confidently guarantee is **QA Tester**, thanks to all the key injection workshop and screen telemetry 😅 link to this project.   
+(See documentation to understand what I means)   
+
+## Required Hardware
+ 
+* Meta Quest 3 (or Steam Frame)    
+* Keyboard   
+* Mouse   
+* Gamepad
+* Optional but recommanded:
+  * A Raspberry PI or a Steam Deck
+ 
+  
+**Creator Note**
+
+I need your help.
+
+The APInt.IO server for Raspberry Pi and EloiCodeXR is going to become one of my main project.
+My mind tends to resist staying focused on the same application for years, but I want to give it a serious try.
+So please help me stay focused on the CodeLabXR application.
+
+
+## 2D vs XR
+
+I really, really, really want to create a Raspberry Pi and Android 2D version.    
+However, doing so would allow my brain to escape the challenges of XR development.   
+
+To successfully deliver a useful public application, I will focus on the XR version first.
+My goal is to maintain a single XR version of this application:    
+* Development builds on GitHub Releases
+* Latest stable version on Itch.io
+* Meta Quest 3 release
+* Steam release for Steam Deck and PC VR
+
+  
+## Code Within the Headset
+
+*I hope I never have to choose between Steam Deck and Quest 3 one day.*     
+This application is primarily designed and developed from within the headset using Godot.       
+Part of the goal is to prove that meaningful software can be created entirely in XR—and to embrace the challenge that comes with it.      
+
+
+
+---------
+
+
+
+# Project
+
+
+## Download
+
+From [Release](https://github.com/EloiStree/CodeLabXR/releases), [Itch.io](https://eloistree.itch.io/codelabxr), ~Meta Store~, ~Steam Frame~
+
+
+Install on the Quest3 with Termux
 ```
 cd storage/shared/documents
 git clone --recursive https://github.com/EloiStree/CodeLabXR.git
 ```
 
 
-## APInt.io
+## Conctext
+
+### APInt.io
 
 > Learn code by playing game with Integer.
 
@@ -15,7 +108,7 @@ git clone --recursive https://github.com/EloiStree/CodeLabXR.git
 [S2W⌨️](https://github.com/EloiStree/S2W) - [XOMI🎮](https://github.com/EloiStree/XOMI) - [PicoS2W⌨️](https://github.com/EloiStree/PicoS2W) - [XESP32🎮](https://github.com/EloiStree/XESP32)
 
 
-## Godotarium
+### Godotarium
 
 > Learn GDScript as a first programming language on Quest 3 and Steam Deck with an Amazon-style robotics experience.
    
@@ -55,8 +148,4 @@ This project is a Godot project and is coded from within the headset.
 However, it introduces a significant dependency that I do not control within the project.
 To maintain full ownership and flexibility over the codebase, this project is built without the Godot XR Tools framework.
 
-
-- https://eloistree.itch.io/codelabxr
-  - Quest: To Add
-  - Steam: To Add
 
