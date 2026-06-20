@@ -55,3 +55,9 @@
 [submodule "addons/2026_06_20_gdp_click_on_sub_viewport_in_xr"]
 	path = addons/2026_06_20_gdp_click_on_sub_viewport_in_xr
 	url = https://github.com/EloiStree/2026_06_20_gdp_click_on_sub_viewport_in_xr.git
+[submodule "addons/2026_03_08_gdp_xr_basic_to_macro"]
+	path = addons/2026_03_08_gdp_xr_basic_to_macro
+	url = https://github.com/EloiStree/2026_03_08_gdp_xr_basic_to_macro.git
+[submodule "addons/2026_04_26_gdp_basic_godot_xr"]
+	path = addons/2026_04_26_gdp_basic_godot_xr
+	url = https://github.com/EloiStree/2026_04_26_gdp_basic_godot_xr.git
