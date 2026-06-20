@@ -1,3 +1,4 @@
+[Godot current version ->](GodotVersion)
 
 # Code Lab XR
 
