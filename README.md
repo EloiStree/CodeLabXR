@@ -79,6 +79,17 @@ This application is primarily designed and developed from within the headset usi
 Part of the goal is to prove that meaningful software can be created entirely in XR—and to embrace the challenge that comes with it.      
 
 
+## No Godot XR Tools
+
+I really enjoy using Godot XR Tools, but every toolbox comes with extra complexity and maintenance costs.   
+Sooner or later, changes happen that I don't want to spend time dealing with while I am teaching somewhere.      
+Godot XR Tools would probably work well for this project, but I've chosen not to depend on it.
+
+As a result, this project may not include every XR feature or convenience tool you might expect.
+Instead, we'll focus on simple interactions, minimal dependencies, and keeping the project easy to maintain.      
+With only what Godot Engine provide.    
+
+
 
 ---------
 
