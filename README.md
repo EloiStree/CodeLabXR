@@ -136,6 +136,32 @@ APInt.io is incorporeted to this one.
 
 This project is a Godot project and is coded from within the headset.
 
+
+### Code Tournament
+
+#### VR Games Tournament
+
+> Learn code by playing perpetual touranement games.
+
+I love ogame concept and CodingGame tournament. Expect me to create some coding game tournament.
+- Train in the CodeLabXR by loading your code in the local game.  
+- Optionally, load opponent code (at your own risk) in your local game.
+- Submit your code to unranked server.
+- Submit your code to ranked server.
+
+#### Input Tournament
+
+> Learn to code by competing in speedrun and challenge tournaments based on games.
+
+**The concept:**
+
+* Four screens are streamed on Discord for all participants.
+* An input-hack door is provided through an RSA or ECC key.
+* Any attempt to hack the computer results in a permanent ban.
+  * (The input system has administrator rights on the computer.)
+* A telemetry server may be provided in some cases.
+
+
 ## Previous Courses on the Topic
 * https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr
 * https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit
@@ -150,14 +176,5 @@ This project is a Godot project and is coded from within the headset.
 * [🍺🍻 Support the project](https://buymeacoffee.com/apintio)
 
 
-
-**Required:** The game is designed to be played with a keyboard and mouse.  
-* You can use an OTG adapter and a standard Bluetooth keyboard.   
-* Alternatively, you can type on your PC and send the input directly to your headset with Python or Godot.  
-
-**No Godot XR:*
-*Godot XR is an excellent framework for game jams and rapid prototyping.
-However, it introduces a significant dependency that I do not control within the project.
-To maintain full ownership and flexibility over the codebase, this project is built without the Godot XR Tools framework.
 
 
