@@ -34,3 +34,6 @@
 [submodule "addons/2026_06_13_gdp_three_points_xr_cursor"]
 	path = addons/2026_06_13_gdp_three_points_xr_cursor
 	url = https://github.com/EloiStree/2026_06_13_gdp_three_points_xr_cursor.git
+[submodule "addons/2026_06_13_gdp_three_points_mesh_builder"]
+	path = addons/2026_06_13_gdp_three_points_mesh_builder
+	url = https://github.com/EloiStree/2026_06_13_gdp_three_points_mesh_builder.git
