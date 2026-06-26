@@ -9,7 +9,7 @@ Before you try to download this application.
 * **Learn to code by playing games.**
 * The goal of this application is to teach programming directly through gameplay.
 * The success of the project is measured by how many beginners become coders 😋.
-* Every exercise and feature should be delivered in a working, clean, and playable state by **Thursday**.
+* Every exercise and feature should be delivered in a working, clean, and playable state every **Thursday**.
 
 ### Progress Tracker
 
