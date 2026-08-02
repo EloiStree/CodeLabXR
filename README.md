@@ -1,8 +1,11 @@
 **Ideal Workflow:** [Create for TV](https://github.com/EloiStree/CodeLabTV) > [Test on XR](https://github.com/EloiStree/CodeLabXR)  > [Tournament in Cinema](https://github.com/EloiStree/CodeLabCinema)
 
 ----------
-
-
+```
+git clone --recursive https://github.com/EloiStree/CodeLabXR.git
+cd CodeLabXR
+git submodule foreach 'git switch main'
+```
 [Godot current version ->](GodotVersion)
 
 # Code Lab XR
